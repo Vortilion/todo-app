@@ -14,6 +14,7 @@ $ git clone https://github.com/Vortilion/todo-app.git
 ## install the dependencies with npm
 
 ```bash
+$ cd seed
 $ npm install
 ```
 
